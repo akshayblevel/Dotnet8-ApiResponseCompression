@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9BBPdYzoYjruBSEwr51/UUzfkfFoliUl1DD55Cfdgdk=",
+  "Source": "Dotnet8-ApiResponseCompression",
+  "BasePath": "_content/Dotnet8-ApiResponseCompression",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

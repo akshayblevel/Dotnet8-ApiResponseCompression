@@ -1,0 +1,6 @@
+@Dotnet8_ApiResponseCompression_HostAddress = http://localhost:5036
+
+GET {{Dotnet8_ApiResponseCompression_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
